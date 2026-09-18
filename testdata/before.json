@@ -1,0 +1,12 @@
+[
+  {
+    "Folder": ".",
+    "Root": ".",
+    "Type": "GoMod"
+  },
+  {
+    "Folder": ".",
+    "Root": "other",
+    "Type": "GoMod"
+  }
+]
